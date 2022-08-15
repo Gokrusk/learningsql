@@ -47,4 +47,6 @@ having count(p.id) >= 2;
 
 -- eliminar tabla
 drop table product;
+drop table animales;
+drop table user;
 
