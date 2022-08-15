@@ -40,5 +40,3 @@ SELECT * from animales;
 
 UPDATE animales SET estado = 'triste' WHERE tipo = 'dragon';
 -- error al actualizar con columna en vez de con id
-
---FI
