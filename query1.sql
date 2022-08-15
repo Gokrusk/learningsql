@@ -1,3 +1,4 @@
+-- SQL 1
 create database holamundo;
 show databases;
 use holamundo;
